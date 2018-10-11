@@ -18,7 +18,6 @@ import java.util.concurrent.*;
  */
 public class TestSynchronized {
     Integer count1 = 0;
-    static ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
     ShareObject shareObject = new ShareObject();
 
 
